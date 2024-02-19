@@ -36,7 +36,8 @@ To run this application locally, you'll need to follow these steps:
 1. **Create a Virtual Environment**: Navigate to your project directory and run:
 
    ```bash
-   python -m venv venv
+  pyenv install 3.9.7
+
    ```
 
 2. **Activate the Virtual Environment**:
