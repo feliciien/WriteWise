@@ -34,10 +34,10 @@ To run this application locally, you'll need to follow these steps:
 ### Step 2: Create a Virtual Environment
 
 1. **Create a Virtual Environment**: Navigate to your project directory and run:
+```bash
+pyenv install 3.9.7
+```
 
-   ```bash
-  pyenv install 3.9.7
-    ```
 
 2. **Activate the Virtual Environment**:
 
