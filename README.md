@@ -1,4 +1,4 @@
-Certainly! Below is a README file template that you can use for your GitHub repository to provide clear instructions and information about your Flask application:
+
 
 ---
 
